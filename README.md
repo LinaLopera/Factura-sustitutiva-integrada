@@ -1,5 +1,5 @@
 # Factura-sustitutiva-integrada
-Nuestro proyecto se llama facturación sustitutiva integrada los participantes somos
+Nuestro proyecto se llama facturación sustitutiva integrada, los intregantes somos:
 Juanes Esteban Montoya, Lina Marcela Lopera y Jonathan García Flórez.
 
 Se han evidenciado que en algunas dependencias los clientes deben acercarse al centro de servicios y esperar ser atendidos para que le tomen los datos de la empresa y de la compra para generar la factura sustitutiva, los cuales son manejados en cuadernos, papelitos o en bases de datos de Excel que muchas veces se pueden borrar o perder. Ocasionando que el cliente deba volver al almacén a dejar de nuevo sus datos para genera la factura. 
